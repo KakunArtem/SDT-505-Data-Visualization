@@ -2,3 +2,5 @@
 /src/module_1/.ipynb_checkpoints/
 /venv/
 SDT-505-Data-Visualization.iml
+*.json
+*.db
